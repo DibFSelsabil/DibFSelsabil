@@ -80,12 +80,11 @@ I enjoy capturing **technology, people, events, products and creative moments** 
 ✨ Visual content creation
 
 ---
-## 🌐 Connect With Me
 
 
 
 
-ابعثيلي
+
 ## 🛠️ Tools & Technologies
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat\&logo=python\&logoColor=darkgreen)
